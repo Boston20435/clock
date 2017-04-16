@@ -1,0 +1,13 @@
+* {
+	background-color: #CB67FF;
+	font-size: 2.5em;
+	color: #F0DBFA;
+	text-shadow: 5px 5px black;
+	text-align: center;
+}
+
+p {
+	font-size: 1em;
+	text-shadow: 2px 2px #F0DBFA;
+	color: black;
+}
